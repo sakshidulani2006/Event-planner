@@ -1,0 +1,161 @@
+venue_id,venue_name,city,venue_type,event_type,capacity,cuisine,price_per_plate,venue_cost,rating,parking_available,indoor_outdoor,catering_available,decoration_available
+V001,Aurora Table,Jaipur,Restaurant,Anniversary,60,Non-Vegetarian,700,18000,3.9,Yes,Indoor,Yes,No
+V002,Ivory Palace,Jaipur,Heritage Palace,Anniversary,250,Pan-Asian,1650,125000,3.9,No,Outdoor,No,Yes
+V003,Jade Social House,Jaipur,Club,Anniversary,110,Mixed / Both,850,41000,3.8,No,Indoor,Yes,No
+V004,Zenith Dining Room,Jaipur,Restaurant,Anniversary,50,Multi-Cuisine,1150,16000,4.4,No,Indoor,Yes,No
+V005,Regal Rooftop Lounge,Jaipur,Rooftop Lounge,Birthday,110,Pure Vegetarian,800,41000,3.4,Yes,Outdoor,Yes,Yes
+V006,Sunrise Kitchen & Bar,Jaipur,Restaurant,Birthday,50,Multi-Cuisine,850,16000,3.5,No,Indoor,Yes,Yes
+V007,Celestial Executive Centre,Jaipur,Conference Center,Corporate,350,Continental,800,123000,3.7,Yes,Indoor,Yes,Yes
+V008,Lotus Ballroom,Jaipur,Hotel Ballroom,Corporate,450,Mixed / Both,1200,223000,4.0,No,Indoor,Yes,Yes
+V009,Emerald Greens,Jaipur,Garden Lawn,Engagement,850,Pure Vegetarian,550,175000,3.5,Yes,Both,Yes,Yes
+V010,Silver Garden Estate,Jaipur,Garden Lawn,Engagement,600,Non-Vegetarian,800,134000,4.2,Yes,Both,No,No
+V011,Golden Lawns,Jaipur,Garden Lawn,Other Party,400,Continental,1000,95000,3.7,Yes,Both,Yes,Yes
+V012,Amber Grand Ballroom,Jaipur,Hotel Ballroom,Wedding,300,Mixed / Both,1100,140000,4.1,Yes,Indoor,Yes,No
+V013,Blossom Suites Ballroom,Jaipur,Hotel Ballroom,Wedding,400,Non-Vegetarian,1150,158000,3.3,Yes,Indoor,Yes,Yes
+V014,Emerald Garden Estate,Jaipur,Garden Lawn,Wedding,450,Multi-Cuisine,950,94000,3.9,No,Outdoor,Yes,No
+V015,Jade Resort,Jaipur,Resort,Wedding,190,Pure Vegetarian,1000,77000,4.0,Yes,Outdoor,Yes,Yes
+V016,Silver Haveli,Jaipur,Heritage Palace,Wedding,190,Pure Vegetarian,1000,91000,3.5,No,Outdoor,Yes,Yes
+V017,Pearl Dine,Udaipur,Restaurant,Anniversary,90,Non-Vegetarian,1100,28000,4.0,Yes,Indoor,Yes,No
+V018,Ruby Rooftop,Udaipur,Rooftop Lounge,Anniversary,50,Pan-Asian,1200,25000,3.5,Yes,Outdoor,Yes,No
+V019,Twilight Retreat,Udaipur,Resort,Anniversary,200,Continental,1050,80000,3.4,Yes,Outdoor,Yes,Yes
+V020,Ruby Dine,Udaipur,Restaurant,Birthday,30,Pure Vegetarian,750,14000,3.5,Yes,Indoor,Yes,No
+V021,Ruby Resort & Spa,Udaipur,Resort,Birthday,450,Pure Vegetarian,950,188000,3.5,Yes,Both,Yes,Yes
+V022,Saffron Social House,Udaipur,Club,Birthday,60,Multi-Cuisine,1000,25000,3.6,Yes,Both,Yes,Yes
+V023,Silver Conference Centre,Udaipur,Conference Center,Corporate,160,Non-Vegetarian,950,68000,4.2,Yes,Indoor,Yes,No
+V024,Amber Skydeck,Udaipur,Rooftop Lounge,Engagement,80,Mixed / Both,1050,39000,4.0,No,Outdoor,Yes,Yes
+V025,Ruby Ballroom,Udaipur,Hotel Ballroom,Engagement,700,Mixed / Both,1300,345000,4.2,Yes,Indoor,Yes,No
+V026,Zenith Banquets,Udaipur,Banquet Hall,Other Party,100,Pan-Asian,950,35000,3.8,No,Indoor,Yes,Yes
+V027,Ivory Banquet Hall,Udaipur,Banquet Hall,Wedding,110,Multi-Cuisine,900,40000,3.4,Yes,Indoor,Yes,Yes
+V028,Ivory Haveli,Udaipur,Heritage Palace,Wedding,400,Mixed / Both,1600,258000,3.6,Yes,Outdoor,Yes,No
+V029,Lotus Hotel & Ballroom,Udaipur,Hotel Ballroom,Wedding,160,Non-Vegetarian,1100,80000,3.5,Yes,Indoor,Yes,Yes
+V030,Ruby Farm Estate,Udaipur,Farmhouse,Wedding,300,Pure Vegetarian,750,71000,4.1,Yes,Outdoor,No,Yes
+V031,Saffron Hotel & Ballroom,Udaipur,Hotel Ballroom,Wedding,650,Non-Vegetarian,1200,261000,4.2,Yes,Indoor,Yes,Yes
+V032,Sunrise Meadows,Udaipur,Farmhouse,Wedding,110,Multi-Cuisine,1050,29000,4.7,Yes,Outdoor,Yes,No
+V033,Blossom Rooftop,Delhi,Rooftop Lounge,Anniversary,70,Continental,1100,35000,4.1,No,Outdoor,Yes,No
+V034,Emerald Banquet Hall,Delhi,Banquet Hall,Anniversary,250,Mixed / Both,950,90000,4.0,Yes,Indoor,Yes,Yes
+V035,Moonlit Resort & Spa,Delhi,Resort,Anniversary,110,Continental,1850,65000,4.1,Yes,Both,Yes,No
+V036,Serene Convention Hall,Delhi,Banquet Hall,Birthday,110,Pan-Asian,950,35000,3.9,Yes,Indoor,Yes,Yes
+V037,Silver Lawns,Delhi,Garden Lawn,Birthday,350,Pan-Asian,1200,115000,4.0,Yes,Both,No,Yes
+V038,Silver Sky Lounge,Delhi,Rooftop Lounge,Birthday,80,Mixed / Both,1000,34000,3.8,Yes,Both,Yes,No
+V039,Sunrise Lawns,Delhi,Garden Lawn,Birthday,250,Continental,1150,79000,3.8,Yes,Both,Yes,Yes
+V040,Twilight Members Club,Delhi,Club,Birthday,250,Continental,1250,83000,3.3,Yes,Indoor,Yes,Yes
+V041,Ivory Suites Ballroom,Delhi,Hotel Ballroom,Corporate,200,Mixed / Both,1200,101000,3.9,Yes,Indoor,Yes,Yes
+V042,Jade Conference Centre,Delhi,Conference Center,Corporate,170,Continental,1000,65000,3.9,Yes,Indoor,Yes,No
+V043,Regal Convention Hall,Delhi,Banquet Hall,Corporate,600,Mixed / Both,950,208000,3.7,Yes,Indoor,Yes,Yes
+V044,Sapphire Sky Lounge,Delhi,Rooftop Lounge,Engagement,170,Multi-Cuisine,1650,82000,4.1,No,Both,Yes,Yes
+V045,Ivory Banquets,Delhi,Banquet Hall,Other Party,200,Continental,950,69000,3.7,Yes,Indoor,Yes,Yes
+V046,Jade Lounge & Club,Delhi,Club,Other Party,200,Pan-Asian,1550,90000,4.4,Yes,Both,Yes,No
+V047,Saffron Dine,Delhi,Restaurant,Other Party,110,Continental,1100,27000,3.6,Yes,Indoor,Yes,No
+V048,Majestic Party Hall,Delhi,Banquet Hall,Wedding,190,Pure Vegetarian,700,62000,4.1,Yes,Indoor,Yes,Yes
+V049,Golden Fort Residence,Mumbai,Heritage Palace,Anniversary,250,Multi-Cuisine,2700,199000,3.9,Yes,Outdoor,Yes,Yes
+V050,Golden Dining Room,Mumbai,Restaurant,Birthday,30,Pure Vegetarian,1000,14000,4.1,Yes,Indoor,Yes,No
+V051,Opal Bistro,Mumbai,Restaurant,Birthday,50,Mixed / Both,1050,19000,4.0,No,Indoor,Yes,No
+V052,Orchid Banquets,Mumbai,Banquet Hall,Birthday,250,Multi-Cuisine,1000,73000,3.5,Yes,Indoor,Yes,Yes
+V053,Pearl Orchard,Mumbai,Garden Lawn,Birthday,300,Pan-Asian,1050,90000,3.9,Yes,Both,No,No
+V054,Lotus Resort Club,Mumbai,Resort,Corporate,110,Multi-Cuisine,1700,63000,4.1,Yes,Both,Yes,Yes
+V055,Sapphire Business Hub,Mumbai,Conference Center,Corporate,60,Pan-Asian,1450,39000,4.0,Yes,Indoor,Yes,No
+V056,Velvet Resort,Mumbai,Resort,Corporate,500,Mixed / Both,1200,215000,4.0,Yes,Both,Yes,No
+V057,Crimson Members Club,Mumbai,Club,Engagement,250,Pure Vegetarian,1050,110000,3.8,Yes,Indoor,Yes,Yes
+V058,Golden Resort & Spa,Mumbai,Resort,Engagement,450,Mixed / Both,1550,243000,3.8,Yes,Outdoor,Yes,Yes
+V059,Zenith Hotel & Ballroom,Mumbai,Hotel Ballroom,Engagement,250,Mixed / Both,1650,168000,4.1,Yes,Indoor,Yes,Yes
+V060,Majestic Celebrations,Mumbai,Banquet Hall,Other Party,140,Pan-Asian,1100,53000,3.8,Yes,Indoor,Yes,No
+V061,Silver Convention Hall,Mumbai,Banquet Hall,Other Party,500,Mixed / Both,1000,195000,3.7,Yes,Indoor,Yes,Yes
+V062,Golden Convention Hall,Mumbai,Banquet Hall,Wedding,600,Non-Vegetarian,1100,281000,4.5,Yes,Indoor,Yes,Yes
+V063,Grand Farmhouse,Mumbai,Farmhouse,Wedding,300,Mixed / Both,750,69000,3.2,Yes,Outdoor,No,No
+V064,Ivory Country Estate,Mumbai,Farmhouse,Wedding,350,Mixed / Both,1000,106000,4.5,Yes,Both,No,Yes
+V065,Pearl Convention Hall,Bengaluru,Banquet Hall,Anniversary,550,Pan-Asian,1000,194000,4.4,Yes,Indoor,Yes,Yes
+V066,Emerald Banquets,Bengaluru,Banquet Hall,Birthday,350,Multi-Cuisine,1050,114000,4.1,Yes,Indoor,Yes,Yes
+V067,Grand Celebrations,Bengaluru,Banquet Hall,Birthday,600,Mixed / Both,750,204000,3.9,Yes,Indoor,Yes,Yes
+V068,Regal Rooftop,Bengaluru,Rooftop Lounge,Birthday,50,Continental,1450,27000,4.4,No,Outdoor,Yes,Yes
+V069,Grand Dining Room,Bengaluru,Restaurant,Corporate,70,Multi-Cuisine,1200,22000,4.5,No,Indoor,Yes,No
+V070,Imperial Retreat,Bengaluru,Resort,Corporate,300,Mixed / Both,1150,113000,3.8,Yes,Both,Yes,Yes
+V071,Lotus Executive Centre,Bengaluru,Conference Center,Corporate,170,Continental,950,59000,3.6,Yes,Indoor,Yes,No
+V072,Silver Dining Room,Bengaluru,Restaurant,Corporate,100,Continental,1050,26000,3.9,No,Indoor,Yes,No
+V073,Golden Club,Bengaluru,Club,Engagement,120,Pan-Asian,1000,41000,3.9,Yes,Both,Yes,No
+V074,Pearl Bistro,Bengaluru,Restaurant,Other Party,20,Non-Vegetarian,900,12000,3.4,No,Indoor,Yes,Yes
+V075,Marigold Palace,Bengaluru,Heritage Palace,Wedding,350,Pan-Asian,2000,222000,4.4,Yes,Both,No,Yes
+V076,Moonlit Resort Club,Bengaluru,Resort,Wedding,180,Multi-Cuisine,1450,72000,3.7,Yes,Both,Yes,No
+V077,Opal Farmhouse,Bengaluru,Farmhouse,Wedding,160,Mixed / Both,900,46000,4.5,Yes,Both,No,No
+V078,Silver Farm Estate,Bengaluru,Farmhouse,Wedding,250,Pan-Asian,700,52000,3.2,Yes,Both,Yes,Yes
+V079,Twilight Palace,Bengaluru,Heritage Palace,Wedding,200,Continental,1700,105000,3.7,Yes,Outdoor,Yes,No
+V080,Zenith Suites Ballroom,Bengaluru,Hotel Ballroom,Wedding,450,Mixed / Both,1650,265000,4.0,Yes,Indoor,Yes,Yes
+V081,Marigold Skydeck,Hyderabad,Rooftop Lounge,Anniversary,130,Continental,1200,56000,4.4,No,Outdoor,Yes,Yes
+V082,Sunrise Resort Club,Hyderabad,Resort,Anniversary,180,Non-Vegetarian,1550,96000,4.3,Yes,Both,Yes,Yes
+V083,Amber Party Hall,Hyderabad,Banquet Hall,Birthday,100,Non-Vegetarian,950,36000,4.0,No,Indoor,Yes,Yes
+V084,Emerald Skydeck,Hyderabad,Rooftop Lounge,Birthday,120,Pure Vegetarian,800,44000,4.0,Yes,Outdoor,Yes,Yes
+V085,Opal Convention Hall,Hyderabad,Banquet Hall,Birthday,160,Mixed / Both,750,55000,3.6,Yes,Indoor,Yes,Yes
+V086,Ruby Business Hub,Hyderabad,Conference Center,Corporate,200,Continental,800,66000,3.9,Yes,Indoor,Yes,No
+V087,Twilight Ballroom,Hyderabad,Hotel Ballroom,Corporate,170,Mixed / Both,1350,98000,4.1,No,Indoor,Yes,Yes
+V088,Amber Lawns,Hyderabad,Garden Lawn,Engagement,800,Mixed / Both,700,153000,4.1,Yes,Outdoor,Yes,No
+V089,Celestial Dine,Hyderabad,Restaurant,Engagement,110,Pure Vegetarian,600,24000,4.1,Yes,Indoor,Yes,No
+V090,Regal Greens,Hyderabad,Garden Lawn,Engagement,250,Non-Vegetarian,750,63000,4.2,Yes,Outdoor,Yes,No
+V091,Imperial Members Club,Hyderabad,Club,Other Party,200,Multi-Cuisine,1000,68000,3.6,Yes,Indoor,Yes,No
+V092,Moonlit Farms,Hyderabad,Farmhouse,Other Party,300,Mixed / Both,700,70000,4.0,Yes,Outdoor,No,No
+V093,Grand Resort & Spa,Hyderabad,Resort,Wedding,250,Non-Vegetarian,1100,108000,4.3,Yes,Outdoor,Yes,Yes
+V094,Opal Resort,Hyderabad,Resort,Wedding,450,Mixed / Both,1400,201000,4.0,Yes,Outdoor,Yes,Yes
+V095,Twilight Suites Ballroom,Hyderabad,Hotel Ballroom,Wedding,750,Mixed / Both,1250,329000,4.0,Yes,Indoor,Yes,Yes
+V096,Zenith Celebrations,Hyderabad,Banquet Hall,Wedding,120,Mixed / Both,750,45000,4.2,Yes,Indoor,Yes,Yes
+V097,Opal Palace,Pune,Heritage Palace,Anniversary,250,Multi-Cuisine,2200,143000,4.3,Yes,Outdoor,Yes,Yes
+V098,Serene Rooftop,Pune,Rooftop Lounge,Anniversary,130,Pan-Asian,900,41000,3.1,Yes,Outdoor,Yes,No
+V099,Sunrise Club,Pune,Club,Anniversary,70,Mixed / Both,950,29000,4.0,Yes,Indoor,Yes,Yes
+V100,Lotus Skydeck,Pune,Rooftop Lounge,Birthday,40,Mixed / Both,550,16000,3.7,Yes,Both,Yes,Yes
+V101,Sunrise Lounge & Club,Pune,Club,Birthday,80,Mixed / Both,950,28000,3.8,Yes,Indoor,Yes,Yes
+V102,Moonlit Conference Centre,Pune,Conference Center,Corporate,250,Continental,1000,102000,4.4,Yes,Indoor,Yes,No
+V103,Silver Ballroom,Pune,Hotel Ballroom,Corporate,150,Pure Vegetarian,1100,78000,4.4,Yes,Indoor,Yes,Yes
+V104,Pearl Banquets,Pune,Banquet Hall,Engagement,150,Pure Vegetarian,850,54000,4.0,Yes,Indoor,Yes,Yes
+V105,Regal Dine,Pune,Restaurant,Engagement,50,Non-Vegetarian,650,14000,3.3,No,Indoor,Yes,No
+V106,Blossom Event Club,Pune,Club,Other Party,130,Continental,1100,44000,3.3,Yes,Both,Yes,No
+V107,Blossom Table,Pune,Restaurant,Other Party,40,Non-Vegetarian,700,14000,4.0,Yes,Indoor,Yes,No
+V108,Pearl Rooftop,Pune,Rooftop Lounge,Other Party,180,Continental,1350,69000,4.3,Yes,Both,Yes,Yes
+V109,Blossom Party Hall,Pune,Banquet Hall,Wedding,250,Non-Vegetarian,750,71000,3.7,Yes,Indoor,Yes,Yes
+V110,Emerald Gardens,Pune,Garden Lawn,Wedding,400,Mixed / Both,750,104000,4.1,Yes,Outdoor,Yes,No
+V111,Harmony Greens,Pune,Garden Lawn,Wedding,200,Multi-Cuisine,1100,48000,3.7,Yes,Outdoor,No,No
+V112,Royal Resort & Spa,Pune,Resort,Wedding,350,Multi-Cuisine,1250,132000,4.0,Yes,Both,Yes,Yes
+V113,Emerald Resort & Spa,Ahmedabad,Resort,Anniversary,160,Continental,1400,64000,4.1,Yes,Outdoor,Yes,Yes
+V114,Pearl Celebrations,Ahmedabad,Banquet Hall,Anniversary,450,Continental,750,116000,4.0,Yes,Indoor,Yes,Yes
+V115,Velvet Banquets,Ahmedabad,Banquet Hall,Anniversary,550,Multi-Cuisine,1000,142000,3.5,Yes,Indoor,Yes,No
+V116,Harmony Party Hall,Ahmedabad,Banquet Hall,Birthday,500,Pan-Asian,800,135000,3.7,Yes,Indoor,Yes,Yes
+V117,Imperial Club,Ahmedabad,Club,Birthday,150,Mixed / Both,700,38000,3.7,Yes,Both,Yes,Yes
+V118,Marigold Celebrations,Ahmedabad,Banquet Hall,Corporate,100,Pure Vegetarian,550,32000,3.5,Yes,Indoor,Yes,Yes
+V119,Pearl Conference Centre,Ahmedabad,Conference Center,Corporate,140,Mixed / Both,550,46000,4.2,Yes,Indoor,Yes,No
+V120,Sunrise Hotel & Ballroom,Ahmedabad,Hotel Ballroom,Corporate,160,Pure Vegetarian,900,70000,4.0,Yes,Indoor,Yes,Yes
+V121,Lotus Suites Ballroom,Ahmedabad,Hotel Ballroom,Engagement,800,Mixed / Both,1300,425000,4.7,Yes,Indoor,Yes,No
+V122,Lotus Country Estate,Ahmedabad,Farmhouse,Other Party,200,Multi-Cuisine,750,37000,3.8,Yes,Both,No,Yes
+V123,Sunrise Party Hall,Ahmedabad,Banquet Hall,Other Party,500,Multi-Cuisine,950,132000,4.2,Yes,Indoor,Yes,Yes
+V124,Aurora Banquet Hall,Ahmedabad,Banquet Hall,Wedding,550,Pure Vegetarian,650,164000,4.1,Yes,Indoor,Yes,Yes
+V125,Jade Hotel & Ballroom,Ahmedabad,Hotel Ballroom,Wedding,250,Non-Vegetarian,1150,105000,4.6,Yes,Indoor,Yes,Yes
+V126,Moonlit Party Hall,Ahmedabad,Banquet Hall,Wedding,200,Pure Vegetarian,500,56000,3.8,Yes,Indoor,Yes,Yes
+V127,Orchid Resort,Ahmedabad,Resort,Wedding,250,Pure Vegetarian,900,86000,4.1,Yes,Outdoor,Yes,Yes
+V128,Regal Farmhouse,Ahmedabad,Farmhouse,Wedding,110,Pure Vegetarian,550,28000,4.1,Yes,Outdoor,No,No
+V129,Twilight Social House,Kolkata,Club,Anniversary,80,Continental,1100,33000,4.5,No,Both,Yes,Yes
+V130,Ivory Terrace,Kolkata,Rooftop Lounge,Birthday,60,Non-Vegetarian,900,24000,3.9,No,Both,Yes,No
+V131,Moonlit Skydeck,Kolkata,Rooftop Lounge,Birthday,130,Mixed / Both,800,47000,3.8,Yes,Outdoor,Yes,No
+V132,Zenith Farms,Kolkata,Farmhouse,Birthday,300,Multi-Cuisine,650,47000,3.7,Yes,Outdoor,Yes,Yes
+V133,Aurora Banquets,Kolkata,Banquet Hall,Corporate,100,Continental,750,31000,3.8,Yes,Indoor,Yes,Yes
+V134,Blossom Convention Hall,Kolkata,Banquet Hall,Corporate,300,Pure Vegetarian,800,93000,3.9,Yes,Indoor,Yes,Yes
+V135,Grand Party Hall,Kolkata,Banquet Hall,Corporate,500,Pan-Asian,800,125000,3.5,Yes,Indoor,Yes,Yes
+V136,Celestial Lawns,Kolkata,Garden Lawn,Engagement,900,Non-Vegetarian,950,195000,4.6,Yes,Both,No,Yes
+V137,Harmony Rooftop Lounge,Kolkata,Rooftop Lounge,Engagement,190,Non-Vegetarian,900,64000,4.6,No,Both,Yes,Yes
+V138,Imperial Resort,Kolkata,Resort,Engagement,120,Multi-Cuisine,1200,48000,4.5,Yes,Both,Yes,No
+V139,Zenith Resort & Spa,Kolkata,Resort,Engagement,140,Multi-Cuisine,1300,50000,4.1,Yes,Both,Yes,Yes
+V140,Ivory Club,Kolkata,Club,Other Party,190,Continental,1200,60000,4.0,Yes,Indoor,Yes,Yes
+V141,Orchid Skydeck,Kolkata,Rooftop Lounge,Other Party,140,Continental,950,45000,3.9,No,Both,Yes,Yes
+V142,Moonlit Garden Estate,Kolkata,Garden Lawn,Wedding,450,Pure Vegetarian,500,76000,3.7,Yes,Outdoor,No,Yes
+V143,Royal Garden Estate,Kolkata,Garden Lawn,Wedding,800,Multi-Cuisine,1100,171000,4.3,Yes,Outdoor,Yes,No
+V144,Serene Orchard,Kolkata,Garden Lawn,Wedding,250,Mixed / Both,700,53000,4.1,Yes,Both,No,Yes
+V145,Celestial Convention Hall,Chennai,Banquet Hall,Anniversary,250,Non-Vegetarian,700,64000,3.6,Yes,Indoor,Yes,Yes
+V146,Harmony Resort,Chennai,Resort,Anniversary,190,Non-Vegetarian,1100,86000,3.7,No,Both,Yes,Yes
+V147,Silver Bistro,Chennai,Restaurant,Anniversary,60,Mixed / Both,850,18000,4.2,No,Indoor,Yes,No
+V148,Saffron Celebrations,Chennai,Banquet Hall,Birthday,500,Pure Vegetarian,600,148000,3.8,Yes,Indoor,Yes,Yes
+V149,Saffron Skydeck,Chennai,Rooftop Lounge,Birthday,170,Non-Vegetarian,900,57000,3.9,No,Both,Yes,Yes
+V150,Serene Banquets,Chennai,Banquet Hall,Birthday,170,Continental,900,47000,4.1,No,Indoor,Yes,Yes
+V151,Serene Farmhouse,Chennai,Farmhouse,Birthday,300,Pan-Asian,700,51000,4.0,Yes,Both,Yes,No
+V152,Crimson Business Hub,Chennai,Conference Center,Corporate,90,Multi-Cuisine,800,36000,4.2,Yes,Indoor,Yes,No
+V153,Marigold Members Club,Chennai,Club,Corporate,250,Pan-Asian,1100,74000,4.2,Yes,Both,Yes,Yes
+V154,Imperial Rooftop Lounge,Chennai,Rooftop Lounge,Engagement,180,Multi-Cuisine,1200,65000,4.4,No,Outdoor,Yes,Yes
+V155,Serene Social House,Chennai,Club,Engagement,160,Pure Vegetarian,900,58000,3.9,No,Indoor,Yes,No
+V156,Twilight Banquet Hall,Chennai,Banquet Hall,Engagement,160,Mixed / Both,750,48000,4.2,Yes,Indoor,Yes,Yes
+V157,Grand Farms,Chennai,Farmhouse,Other Party,200,Multi-Cuisine,750,42000,3.5,Yes,Both,Yes,No
+V158,Twilight Banquets,Chennai,Banquet Hall,Other Party,400,Mixed / Both,700,112000,4.1,Yes,Indoor,Yes,Yes
+V159,Ivory Garden Estate,Chennai,Garden Lawn,Wedding,850,Non-Vegetarian,750,197000,3.3,Yes,Both,No,Yes
+V160,Zenith Haveli,Chennai,Heritage Palace,Wedding,250,Mixed / Both,1650,133000,3.8,No,Outdoor,Yes,No
